@@ -11,3 +11,7 @@ Created an API for a social network web applications in which users can create a
 
 ##Credits
 -I utlized the assistance of an EdX tutor in creating this app
+
+
+https://github.com/mwg396/Module18Challenge/assets/153116787/dc026e0a-34df-4ed6-94bd-68f5754264e1
+
